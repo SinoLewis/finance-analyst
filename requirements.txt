@@ -1,6 +1,6 @@
-sounddevice
-wavio
-git+https://github.com/openai/whisper.git
+openai
 ib_insync
 pandas
-redis
+llama-index
+jinja2
+streamlit
